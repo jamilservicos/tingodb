@@ -2,9 +2,3 @@ language: node_js
 node_js:
   - "7.6.0"
 cache: yarn
-services:
-  - mongodb
-script:
-  - npm install
-  - sh test.sh --db=mongodb --reporter=spec --quick
-  - sh test.sh --db=tingodb --reporter=spec
