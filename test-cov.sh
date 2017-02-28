@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 if [ "$(basename "$0")" = "test-cov.sh" ]; then
 	if ! command -v istanbul >/dev/null 2>&1; then
