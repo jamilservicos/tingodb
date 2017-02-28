@@ -61,7 +61,7 @@
     "//": "test here"
   },
   "optionalDependencies": {
-    "bson": "0.2.x"
+    "bson": "1.0.x"
   },
   "devDependencies": {
     "benchmark": "^2.1.3",
