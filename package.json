@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "safe": "^0.4.2"
+    "safe": "^0.4.3"
   },
   "scripts": {
     "//": "test here"
@@ -65,10 +65,10 @@
   },
   "devDependencies": {
     "benchmark": "^2.1.3",
-    "csv": "^1.1.0",
+    "csv": "^1.1.1",
     "lorem-ipsum": "1.0.x",
     "mocha": "^3.2.0",
-    "mongodb": "^2.2.21",
+    "mongodb": "^2.2.24",
     "optimist": "0.6.x",
     "step": "^1.0.0",
     "temp": "^0.8.3"
