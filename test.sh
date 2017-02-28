@@ -8,5 +8,5 @@ if [ "$(basename "$0")" = "test-cov.sh" ]; then
 	fi
 	istanbul cover test/run.js -- $* && xdg-open coverage/lcov-report/index.html
 else
-	test/run.js $*
+	node test/run.js $*
 fi
