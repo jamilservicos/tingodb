@@ -1,7 +1,7 @@
 TingoDB
 =======
 
-[![Build Status](https://travis-ci.org/jamilservicos/tingodb.svg?branch=master)](https://travis-ci.org/jamilservicos/tingodb)
+[![Build Status](https://travis-ci.org/jamilservicos/tingodb.svg?branch=master)](https://travis-ci.org/jamilservicos/tingodb) [![dependencies Status](https://david-dm.org/jamilservicos/tingodb/status.svg)](https://david-dm.org/jamilservicos/tingodb)
 
 **TingoDB** is an embedded JavaScript in-process filesystem or in-memory database upwards compatible with MongoDB at the API level.
 
